@@ -1,0 +1,121 @@
+Region;Year;Total Accidents;Accidents Rate;Total Deaths;Deaths Rate
+Abruzzo;2013;16675;3;30;2
+Abruzzo;2014;15722;2;36;3
+Abruzzo;2015;14929;2;37;3
+Abruzzo;2016;14656;2;30;2
+Abruzzo;2017;14299;2;54;4
+Abruzzo;2018;13837;2;25;2
+Basilicata;2013;4824;1;11;2
+Basilicata;2014;4612;1;25;5
+Basilicata;2015;4648;1;16;3
+Basilicata;2016;4806;1;17;3
+Basilicata;2017;4712;1;12;2
+Basilicata;2018;4632;1;18;4
+Calabria;2013;11660;1;46;3
+Calabria;2014;10683;0;23;1
+Calabria;2015;10441;0;31;2
+Calabria;2016;10154;0;24;1
+Calabria;2017;10103;0;19;1
+Calabria;2018;10014;0;41;3
+Campania;2013;23678;0;96;2
+Campania;2014;22852;0;84;2
+Campania;2015;21580;0;115;2
+Campania;2016;22164;0;82;2
+Campania;2017;22123;0;60;1
+Campania;2018;22754;0;87;2
+Emilia Romagna;2013;92821;5;111;2
+Emilia Romagna;2014;87663;4;117;2
+Emilia Romagna;2015;84178;4;108;2
+Emilia Romagna;2016;84196;4;139;2
+Emilia Romagna;2017;84696;4;115;2
+Emilia Romagna;2018;85823;4;115;2
+Friuli Venezia Giulia;2013;18284;3;25;2
+Friuli Venezia Giulia;2014;16611;3;26;2
+Friuli Venezia Giulia;2015;15865;2;22;1
+Friuli Venezia Giulia;2016;16490;3;22;1
+Friuli Venezia Giulia;2017;16595;3;26;2
+Friuli Venezia Giulia;2018;17246;3;29;2
+Lazio;2013;49091;1;116;2
+Lazio;2014;46376;1;106;1
+Lazio;2015;45131;0;123;2
+Lazio;2016;45489;0;108;1
+Lazio;2017;45119;0;92;1
+Lazio;2018;44470;0;92;1
+Liguria;2013;23507;3;35;2
+Liguria;2014;22588;3;26;1
+Liguria;2015;21664;3;26;1
+Liguria;2016;21375;3;22;1
+Liguria;2017;20816;3;34;2
+Liguria;2018;20612;3;43;3
+Lombardia;2013;125293;2;193;1
+Lombardia;2014;121341;2;154;1
+Lombardia;2015;116599;2;177;1
+Lombardia;2016;116726;2;136;1
+Lombardia;2017;117757;2;139;1
+Lombardia;2018;119937;2;163;1
+Marche;2013;20541;2;30;2
+Marche;2014;20013;2;41;2
+Marche;2015;19164;2;45;3
+Marche;2016;18711;2;39;2
+Marche;2017;18706;2;33;2
+Marche;2018;18621;2;22;1
+Molise;2013;2849;2;11;4
+Molise;2014;2582;1;14;5
+Molise;2015;2370;1;15;6
+Molise;2016;2413;1;10;4
+Molise;2017;2045;0;11;4
+Molise;2018;2124;1;13;5
+Piemonte;2013;54591;2;93;2
+Piemonte;2014;50552;2;103;2
+Piemonte;2015;48464;2;89;2
+Piemonte;2016;47786;2;85;1
+Piemonte;2017;47457;2;83;1
+Piemonte;2018;47693;2;98;2
+Puglia;2013;32746;2;85;2
+Puglia;2014;31710;2;85;2
+Puglia;2015;30197;1;83;2
+Puglia;2016;31697;2;82;2
+Puglia;2017;30395;1;67;2
+Puglia;2018;31023;1;74;2
+Sardegna;2013;14280;1;24;1
+Sardegna;2014;13651;1;27;1
+Sardegna;2015;12744;1;25;1
+Sardegna;2016;12951;1;27;1
+Sardegna;2017;13034;1;20;1
+Sardegna;2018;12834;1;19;1
+Sicilia;2013;31540;1;93;2
+Sicilia;2014;30097;1;91;2
+Sicilia;2015;28673;1;85;2
+Sicilia;2016;29941;1;77;2
+Sicilia;2017;28347;1;68;2
+Sicilia;2018;28118;1;64;2
+Toscana;2013;54942;3;82;2
+Toscana;2014;52673;3;80;2
+Toscana;2015;50961;2;123;3
+Toscana;2016;50131;2;77;2
+Toscana;2017;49083;2;72;1
+Toscana;2018;48955;2;81;2
+Trentino Alto Adige;2013;25552;6;19;1
+Trentino Alto Adige;2014;25090;5;22;1
+Trentino Alto Adige;2015;23500;5;27;2
+Trentino Alto Adige;2016;24011;5;22;1
+Trentino Alto Adige;2017;24029;5;17;1
+Trentino Alto Adige;2018;24269;5;14;1
+Umbria;2013;12744;3;32;3
+Umbria;2014;11825;3;21;2
+Umbria;2015;11173;2;29;3
+Umbria;2016;11262;2;22;2
+Umbria;2017;10451;2;14;1
+Umbria;2018;10318;2;19;2
+Valle D'Aosta;2013;1902;3;2;1
+Valle D'Aosta;2014;1779;3;3;2
+Valle D'Aosta;2015;1643;2;0;0
+Valle D'Aosta;2016;1612;2;0;0
+Valle D'Aosta;2017;1566;2;2;1
+Valle D'Aosta;2018;1495;2;1;0
+Veneto;2013;77471;3;124;2
+Veneto;2014;75208;3;97;1
+Veneto;2015;73315;3;125;2
+Veneto;2016;75052;3;126;2
+Veneto;2017;74100;3;91;1
+Veneto;2018;76486;3;115;2
